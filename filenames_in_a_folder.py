@@ -1,6 +1,6 @@
 #python script for creating list of filenames
 #number of the files is shown in the beginning of the text file
-
+import os
 from os import listdir
 
 mypath= r'xxxXXXxxx'
